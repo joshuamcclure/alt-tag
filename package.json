@@ -1,0 +1,11 @@
+{
+  "name": "alt-tag",
+  "description": "A custom element that allows you to make an actual alt tag in HTML.",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Joshua McClure",
+    "email": "joshua.mcclure@deque.com"
+  }
+}
